@@ -1,0 +1,3 @@
+# Planning Marketing Strategy
+
+A Linear Regression model made with sklearn, matplotlib, and seaborn to predict how much to invest in three marketing strategies (Radio, Newspaper, and TV) to increase sales. Based on a lab from the book 'An Introduction to Statistical Learning'. You can view this notebook and the original Dataset in my kaggle profile: https://www.kaggle.com/code/marcosycaro/polymodel
